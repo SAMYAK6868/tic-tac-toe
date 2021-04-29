@@ -1,1 +1,1 @@
-# Tic-tac-toe build using Python.
+# Tic-tac-toe game build using Python.
